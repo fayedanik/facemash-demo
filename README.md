@@ -3,5 +3,5 @@ Facemash is an online social media and networking service platform. This reposit
 
 # Demo picture
 
-<img src="Images/login.PNG" alt="login-sc" width:"200px" height:"100px">
+<img src="Images/login.PNG" alt="login-sc" width:"200" height:"100">
 ![](Images/login.PNG)
