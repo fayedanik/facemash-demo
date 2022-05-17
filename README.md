@@ -4,4 +4,9 @@ Facemash is an online social media and networking service platform. This reposit
 # Demo picture
 
 1. Login page 
+
 ![](Images/login.PNG)
+
+2. User regestration dialog
+
+![](Images/regestration.png)
