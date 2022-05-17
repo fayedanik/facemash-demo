@@ -9,4 +9,13 @@ Facemash is an online social media and networking service platform. This reposit
 
 2. User regestration dialog
 
-![](Images/regestration.png)
+![](Images/regestration.PNG)
+
+3. User Home page after a successful login
+
+![](Images/user-home-page-1.PNG)
+
+4. User create post dialog
+
+![](Images/user-create-post.PNG)
+
